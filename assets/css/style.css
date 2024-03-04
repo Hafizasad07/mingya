@@ -132,7 +132,6 @@ body {
     text-align: left;
   }
   
-
   .topnav a:hover, .dropdown:hover .dropbtn {
     background-color: #e8a22a;
     color: white;
@@ -764,5 +763,17 @@ body {
 
     .section5-page-head{
       height: 87%;
+    }
+
+    .case-details-img img{
+      width: 100%;
+    }
+
+    .sponsored-maindiv .sponsor-img img{
+      border: none;
+    }
+
+    .sponsor-text1{
+      text-align: center;
     }
 }
